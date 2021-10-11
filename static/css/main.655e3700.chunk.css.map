@@ -1,0 +1,1 @@
+{"version":3,"sources":["/mnt/data1/programming/osama/osamaGitHubProjects/counter-simple/src/styles/App.css"],"names":[],"mappings":"AAAA,SACE,aAAc,AACd,YAAa,AACb,YAAa,AACb,gBAAiB,AACjB,iBAAmB,CACpB","file":"main.655e3700.chunk.css","sourcesContent":[".clicker {\r\n  height: 300px;\r\n  width: 300px;\r\n  margin: auto;\r\n  overflow: hidden;\r\n  text-align: center;\r\n}\r\n"]}

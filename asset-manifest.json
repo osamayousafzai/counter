@@ -1,0 +1,13 @@
+{
+  "main.css": "/counter-simple/static/css/main.655e3700.chunk.css",
+  "main.js": "/counter-simple/static/js/main.1ac7ef98.chunk.js",
+  "main.js.map": "/counter-simple/static/js/main.1ac7ef98.chunk.js.map",
+  "static/js/1.eb8fd53b.chunk.js": "/counter-simple/static/js/1.eb8fd53b.chunk.js",
+  "static/js/1.eb8fd53b.chunk.js.map": "/counter-simple/static/js/1.eb8fd53b.chunk.js.map",
+  "runtime~main.js": "/counter-simple/static/js/runtime~main.b6ab6235.js",
+  "runtime~main.js.map": "/counter-simple/static/js/runtime~main.b6ab6235.js.map",
+  "static/css/main.655e3700.chunk.css.map": "/counter-simple/static/css/main.655e3700.chunk.css.map",
+  "index.html": "/counter-simple/index.html",
+  "precache-manifest.2a769fba6fdfe8ffa4d58de66dc2f0cd.js": "/counter-simple/precache-manifest.2a769fba6fdfe8ffa4d58de66dc2f0cd.js",
+  "service-worker.js": "/counter-simple/service-worker.js"
+}
